@@ -108,9 +108,12 @@ This is a example file, there are some more examples in the project folder, I wo
 When scraping large files, instagram will give a cool down, this is unpredictable. If this comes up, the program will set all the outputs to None.
 Example inputs are shown in the project file!
 
+
 ## Module Versions (may add a virtual environment soon)
 1. selenium - 3.141.0
 2. time - Any
 3. math - Any
 4. pandas - 0.24.2
+
+Please use this with Instagram's Consent
 
